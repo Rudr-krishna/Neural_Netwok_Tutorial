@@ -12,7 +12,7 @@ This repository contains the code used to demonstrate the effects of using activ
 To begin, download the repository from GitHub. You can either:  
 - **Clone the repository** using Git:
   ```bash
-  git clone https://github.com/your-username/your-repo-name.git
+  git clone https://github.com/Rudr-krishna/Neural_Netwok_Tutorial.git
   cd your-repo-name
   ```
 - **Download the ZIP file**:
