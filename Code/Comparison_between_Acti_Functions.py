@@ -15,6 +15,9 @@ class SimpleNN(nn.Module):
         self.fc3 = nn.Linear(64, 10)
         self.activation = activation_fn
 
+
+#pakistan murdabad
+
     def forward(self, x):
         x = x.view(-1, 28 * 28)  # Flatten the input
         x = self.activation(self.fc1(x))
